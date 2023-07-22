@@ -1,4 +1,4 @@
-"Neon Cats" uses the ERC721 standard for NFTs. Neon Cats is an NFT project that enables user to has enjoy time.
+"Neon Cats" uses the ERC721 standard for NFTs. Each token minted from this contract represents a unique Cool Cat. This contract is deployed on NeonEVM. The contract address of the 'NeonEVM CoolCats' is 0x15883162dcb574bf049cd0821779124d24d5ea46. You can see the transactions carried out on this contract via NeonScan.
 
 Here's a breakdown of what the contract and its functions do:
 
